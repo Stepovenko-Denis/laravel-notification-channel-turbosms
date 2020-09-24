@@ -1,5 +1,5 @@
 {
-    "name": "yakimka/laravel-notification-channel-turbosms",
+    "name": "stepovenko/laravel-notification-channel-turbosms",
     "description": "Turbo SMS Notification channel for Laravel 5.3+.",
     "keywords": ["laravel", "notifications", "turbosms"],
     "homepage": "https://github.com/yakimka/laravel-notification-channel-turbosms",
